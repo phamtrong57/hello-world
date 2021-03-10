@@ -1,2 +1,3 @@
-print ("hello world")
-print ("hello world2")
+a = "new articles"
+name = "KKa"
+print(3*a + name)
